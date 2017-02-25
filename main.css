@@ -1,0 +1,22 @@
+h1 {
+	color: blue;
+	font-size: 50px;
+	font-family: 'Georgia', serif
+}
+h4 {
+	color: beige;
+	font-size: 10px;
+}
+p { 
+	color: pink;
+ }
+#shiny {
+	color: red;
+}
+img { 
+width: 60%;
+margin-left: 5%;
+border: 4px;
+border-style: dotted;
+border-color: black;
+ }
